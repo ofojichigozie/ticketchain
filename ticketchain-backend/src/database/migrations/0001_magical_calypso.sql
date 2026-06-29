@@ -1,0 +1,1 @@
+ALTER TABLE "events" ADD COLUMN "max_tickets_per_wallet" integer DEFAULT 0 NOT NULL;
